@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+  border-radius: 30px;
+  margin-top: 25px;
+}
+
+.container{
+  text-align: center;
+}
+h1{
+  color: rgb(0, 0, 126);
+}
+
+.btn{
+  height: 40px;
+  width: 250px;
+  border-radius: 5px;
+  background-color:rgb( 233, 0, 255);
+  border: 0ch;
+  font-weight:bold;
+  font-size: 20px;
+  color: rgb(0, 0, 126);
+}
+.btn:hover{
+  box-shadow: 5px 5px 16px black;
+}
